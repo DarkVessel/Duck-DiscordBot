@@ -1,8 +1,8 @@
 from os import environ
-token = "NTU5MDc1NjczMzE5Mjc2NTQ3.Xigz5Q.i8wpuHLsQDn2tD9ha3hq97nfO38" #environ.get("BOT_TOKEN")
+token = environ.get("BOT_TOKEN")
 
-channelIdeas = 589391966484037654
+channelIdeas = 615867367238533120
 reactionsIdeas = ["👍", "👎"]
 
-channelCreativity = 589855108708172005
+channelCreativity = 608691619797008394
 reactionsCreativity = ["👍", "👎", "🔥"]
