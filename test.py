@@ -1,3 +1,2 @@
-text = "Какой-то текст."
-print("\033[30m {}".format(text)) #
-print("\033[31m {}".format(text))
+arr = ["1", "2", "4"]
+print(i for i in arr)
