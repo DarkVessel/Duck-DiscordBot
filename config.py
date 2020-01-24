@@ -6,3 +6,6 @@ reactionsIdeas = ["👍", "👎"]
 
 channelCreativity = 608691619797008394
 reactionsCreativity = ["👍", "👎", "🔥"]
+
+channelCounting = 639120569169608725
+errorReact = ["❌", "🚫"]
